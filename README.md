@@ -8,3 +8,4 @@ The simulator calculates the force of gravity between each mass being simulated 
 * 3 name display modes
 * Full Zoom/pan control
 * Fast/Slow motion and pausing
+* Saving/Loading setups
